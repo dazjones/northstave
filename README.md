@@ -1,4 +1,4 @@
-# northstave.com - Personal Blog
+# northstave.com - Blog
 
 ## About
 
