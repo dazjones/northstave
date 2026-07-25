@@ -1,0 +1,11 @@
+<hr>
+<footer>
+  <p>
+    <a href="{{ "/" | absURL }}">Home</a>  · 
+    <a href="{{ "/tags/" | absURL}}">Tags</a>  · 
+    <a href="{{ "/index.xml" | absURL }}">Subscribe via RSS</a>
+  </p>
+  <p>
+    &copy; 2023-{{ now.Format "2006" }} {{ .Site.Title }}
+  </p>
+</footer>

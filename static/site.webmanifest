@@ -1,0 +1,7 @@
+{
+  "name": "NorthStave",
+  "short_name": "NorthStave",
+  "theme_color": "#ffffff",
+  "background_color": "#7c3aed",
+  "display": "standalone"
+}

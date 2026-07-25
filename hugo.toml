@@ -1,0 +1,57 @@
+# Base URL used when generating links to your pages
+# Set to the URL for your site
+baseURL = "https://northstave.com"
+
+theme = 'hugo-bearblog'
+
+# Basic metadata configuration for your blog.
+title = "NorthStave"
+author = "Darren Jones"
+copyright = "Copyright © 2026, NorthStave."
+languageCode = "en-GB"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  posts = "/posts/:slug/"
+  tags = "/tags/:slug"
+
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "NorthStave"
+  favicon = "favicon.ico"
+  title = "NorthStave"
+  hideMadeWithLine = true
+  enablePostNavigator = true
+
+# Configure markup highlighter to match "Bearblog" aesthetics, see
+# https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+
+[outputs]
+    home = ["HTML", "RSS"]

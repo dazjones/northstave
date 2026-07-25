@@ -1,0 +1,32 @@
+---
+title: "Lessons from the Art of Failure"
+date: 2026-03-18
+description: "Bad design is a good lesson in empathy"
+tags: ["design"]
+---
+
+I found myself this week reflecting on the nature of invisible design and how we only really notice the objects in our lives when they fail us. Whether it is a confusing lift interface or a washing machine dial that requires a manual, these moments of friction reveal where the silent clues of an object, known as its affordances, have broken down.
+
+While most designers work to eliminate this friction, I have been studying the work of [Katerina Kamprani](https://www.instagram.com/katerina.kamprani/), an Athens-based architect who deliberately subverts these expectations through her project called [The Uncomfortable](https://www.theuncomfortable.com). She describes her work as scrambling the DNA of everyday objects to create a world of mutant products that are intentionally difficult to use. It is a witty collection of oddities and a sharp critique of the assumptions we make about our tools.
+
+When looking at her renderings, such as a [teapot with a spout that makes a controlled pour impossible](https://www.theuncomfortable.com/portfolio/uncomfortable-watering-can-2/) or a [fork with a chain for a handle](https://www.theuncomfortable.com/portfolio/chain-fork/), the tension between high end aesthetics and functional failure is striking. This intentional sabotage is distinct from the accidental bad design we encounter daily, such as an inaccessible toilet or a shelf placed too high. Those are usually results of a lack of empathy or foresight rather than an artistic choice.
+
+Interestingly, her work has resonated deeply with the disabled community, as many people feel these uncomfortable objects mirror the daily barriers they face in a world built for standard body types. It serves as a reminder to me that good design is a matter of perspective and that inclusive design is essential for everyone.
+
+Her creative process involves what she calls creative procrastination, where she avoids tasks to let subversive ideas flow. I noticed she is also notably resistant to using artificial intelligence, despite the time it could save her in 3D modelling, because she believes the manual struggle is what gives the work its soul.
+
+This led me to consider that much of our real world frustration comes from accidental negligence rather than intent. Features like touch screen controls in a car or complex microwave interfaces show a lack of consideration for the user's mental model. Kamprani's work uses intelligent sabotage to make us think, whereas real world failures are often just a nuisance born from haste. Empathy is the most vital tool in a designer's kit.
+
+Concepts of intentional discomfort in art are actually mirrored by catastrophic, unintentional failures in industrial history. It occurs to me that while Katerina Kamprani's work is a witty subversion of our expectations, real world design failures often result from a profound lack of empathy for the person actually using the system.
+
+I came across the [Three Mile Island accident](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/three-mile-island-accident) in 1979. It was essentially a failure of communication between a machine and its operators. A critical relief valve had stuck open, but the control panel only showed that a signal to close the valve had been sent, not whether the valve had actually moved. Because the designers did not account for how an operator would interpret that light under pressure, a manageable mechanical glitch turned into a partial meltdown. It acts as a reminder that a system which prioritises internal logic over the user's mental model is inherently dangerous.
+
+Another example is the [B-17 Flying Fortress](https://humanisticsystems.com/2018/02/25/human-factors-and-ergonomics-looking-back-to-look-forward/) during the Second World War. Pilots were frequently crashing during landing because they would accidentally retract the landing gear instead of the flaps. The two controls were identical in feel and placed right next to each other. It was only when a psychologist named Alphonse Chapanis suggested shape coding, adding a small rubber wheel to the gear handle and a wedge to the flap handle, that the errors stopped. This simple tactile empathy, giving the pilot a physical way to distinguish between life and death, birthed the entire field of ergonomics.
+
+The [Apple butterfly keyboard](https://www.macrumors.com/guide/butterfly-keyboard-issues/) is a modern study in misplaced priorities. For four years, the company pursued a design that was thinner and more aesthetically aligned with their brand, but it completely ignored the physical reality of how people use laptops. A single crumb or a bit of dust could render the entire machine useless. It was a clear instance where the desire for a specific visual silhouette overrode empathy for the user's need for a reliable tool.
+
+The most expensive single act of this disconnect I came across has to be the [Citibank $500 million error](https://medium.muz.li/what-citibanks-500-million-mistake-teaches-us-about-interaction-design-ui-ux-3dbf44d027c7) from a few years ago. Three experienced employees followed a set of instructions on a piece of financial software that was so unintuitive it led them to accidentally pay off nearly a billion dollars in principal rather than a small interest payment. The interface required a series of opaque, non-obvious steps to prevent the system from doing exactly what they did not want it to do. When three people make the same catastrophic mistake, it is no longer user error; it is a failure to design for human behaviour.
+
+Wwhether we are talking about nuclear reactors or bank transfers, the common thread is a lack of consideration for how a human being actually functions in a high stakes environment. Kamprani’s chain-handled fork is funny because it is honest about its failure, but these real world examples show that when design isn't honest, the consequences are anything but humorous. I also found a video on [The Norman Door](https://www.youtube.com/watch?v=ABYSYQmEq1Q) which explains why basic objects like doors can be so confusing when designers ignore human intuition.
+
+It's quite a fun activity to look at things around me with curiosity and identify which ones were built with genuine empathy and which ones are just waiting to catch me out.
